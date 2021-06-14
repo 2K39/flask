@@ -1,0 +1,7 @@
+virtualenv env
+
+'.\env\Scripts\activate'
+
+pip install eel
+
+npm install electron --save-dev
